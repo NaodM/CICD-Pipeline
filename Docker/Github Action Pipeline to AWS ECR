@@ -1,1 +1,1 @@
-
+Github Tests the code and pushes to Docker to build a container & then to send over to AWS ECR to a repo.
